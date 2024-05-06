@@ -8,7 +8,7 @@ function obtenerContador($producto) {
         return 0;
     }
 }
-$ruta_imagen = "https://www.google.com/imgres?q=hamburguesas&imgurl=https%3A%2F%2Fresizer.glanacion.com%2Fresizer%2Fv2%2Fhamburguesa-blt-de-john-john-burger-bacon-lettuce-RHVGX3MHVRB7VGEXBEVCCZHW5I.jpg%3Fauth%3D53776ee5a203ae1fbe457df3473f7c2d9470016ad51a458c73c5b950966a4f57%26width%3D768%26quality%3D70%26smart%3Dfalse&imgrefurl=https%3A%2F%2Fwww.lanacion.com.ar%2Flifestyle%2Fes-experto-en-hamburguesas-y-revela-el-error-mas-comun-al-hacerlas-caseras-que-ingredientes-no-debes-nid21092022%2F&docid=fwwqUYStROiUGM&tbnid=ATmIqgW7rhsjMM&vet=12ahUKEwj65Pfm-_mFAxWsupUCHRqRCjQQM3oECGUQAA..i&w=768&h=768&hcb=2&ved=2ahUKEwj65Pfm-_mFAxWsupUCHRqRCjQQM3oECGUQAA";
+
 $productos = array(
     "Hamburguesas" => array("cantidad" => 10, "imagen" => "hamburguesa.jpg"),
     "Papafritas" => array("cantidad" => 20, "imagen" => "papafritas.jpg"),

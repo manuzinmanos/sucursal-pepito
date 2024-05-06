@@ -93,3 +93,8 @@ input[type="number"] {
 #pedidoActual button:hover {
     background-color: #d32f2f;
 }
+
+.contenedor_img{
+    display: flex;
+}
+
